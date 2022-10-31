@@ -1,0 +1,2 @@
+export const FLIGHT_LOADED = 'FLIGHT_LOADED'
+export const DATE_CHANGED = 'DATE_CHANGED'
