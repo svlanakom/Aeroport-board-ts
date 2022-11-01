@@ -63,7 +63,7 @@ function SearchFlights() {
                     type="text"
                     value={value}
                     onChange={onChange}
-                    placeholder="Airline, destination or flight #"
+                    placeholder="Flight number"
                 />
                 <input
                     className="search-block__input"
