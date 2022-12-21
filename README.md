@@ -1,4 +1,4 @@
- # Visite my application: [Aeroport-board-TypeScript](https://airport-board-react-ts.herokuapp.com/)
+ # Visite my application: [Aeroport-board-TypeScript](https://ornate-vacherin-d96c85.netlify.app//)
 
 # Technical scills
 
